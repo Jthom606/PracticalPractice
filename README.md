@@ -1,1 +1,2 @@
-1. hello.c (C programming user input & machine output)
+This is a way to create the symmetrical 
+boxes
